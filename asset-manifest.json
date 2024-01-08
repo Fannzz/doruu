@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doruu/static/css/main.06148e84.css",
+    "main.js": "/doruu/static/js/main.d76fac81.js",
+    "static/js/787.8bb99d8b.chunk.js": "/doruu/static/js/787.8bb99d8b.chunk.js",
+    "index.html": "/doruu/index.html",
+    "main.06148e84.css.map": "/doruu/static/css/main.06148e84.css.map",
+    "main.d76fac81.js.map": "/doruu/static/js/main.d76fac81.js.map",
+    "787.8bb99d8b.chunk.js.map": "/doruu/static/js/787.8bb99d8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06148e84.css",
+    "static/js/main.d76fac81.js"
+  ]
+}
